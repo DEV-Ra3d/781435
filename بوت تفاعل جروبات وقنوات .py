@@ -5,7 +5,7 @@ import telebot
 import random
 from telebot import types
 
-lost = pyfiglet.figlet_format('OWNER USER @F_R_A_O_N')
+lost = pyfiglet.figlet_format('OWNER USER @DD0D2')
 print(lost)
 
 API_TOKEN = '7727396968:AAGt7odCWGrclfAKWINCXDfmMVGbSkMXbJ0'
